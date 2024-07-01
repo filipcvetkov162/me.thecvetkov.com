@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
             countdownElement.textContent = countdown;
             if (countdown === 0) {
                 clearInterval(countdownInterval);
-                window.location.href = 'index.html';
+                window.location.href = '/index.html';
             }
         }, 1000);
     }
