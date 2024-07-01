@@ -1,23 +1,28 @@
-Author: Filip Tsvetkov
+MIT License
 
-Project: me.thecvetkov.com
+Copyright (c) 2024 Filip Tsvetkov
 
-    Ownership Rights:
-        The project is entirely owned by Filip Tsvetkov.
-        All rights to the code, documentation, and related materials are reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-    Restrictions:
-        Any editing, adapting, or copying of the project is strictly prohibited.
-        Distribution of the project or parts of it is prohibited without the explicit written permission of Filip Tsvetkov.
-        The use of the project for commercial purposes is prohibited without the explicit written permission of Filip Tsvetkov.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-    Permissions:
-        Viewing and testing the project is allowed for personal and educational purposes only.
-        For any other use, including but not limited to distribution, adaptation, or copying, explicit written permission from Filip Tsvetkov is required.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-    Liability:
-        Filip Tsvetkov is not liable for any damages or losses resulting from the use of the project.
-        The project is provided "as is," without any warranties or conditions of any kind.
+Additional Restrictions:
+- Any editing, adapting, or copying of the project is strictly prohibited without the explicit written permission of Filip Tsvetkov.
+- Distribution of the project or parts of it is prohibited without the explicit written permission of Filip Tsvetkov.
+- The use of the project for commercial purposes is prohibited without the explicit written permission of Filip Tsvetkov.
 
-    Contact:
-        For inquiries and permissions related to this project, please contact Filip Tsvetkov at info@fc162.eu.
+For inquiries and permissions related to this project, please contact Filip Tsvetkov at info@fc162.eu.
